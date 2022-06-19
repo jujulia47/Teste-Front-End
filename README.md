@@ -1,7 +1,7 @@
 # teste-front-end
 Teste Prático Front-End
 
-O arquivo do teste prático está em um arquivo zip (Teste prático.zip).
+O arquivo do teste prático está em um arquivo zip (teste pratico front-end.zip).
 
 Fazer o download da pasta e extrair o arquivo.
 
