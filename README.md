@@ -1,5 +1,5 @@
-# teste-pratico
-Teste Prático
+# teste-front-end
+Teste Prático Front-End
 
 O arquivo do teste prático está em um arquivo zip (Teste prático.zip).
 
