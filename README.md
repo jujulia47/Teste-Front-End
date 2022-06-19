@@ -2,6 +2,7 @@
 Teste Prático
 
 O arquivo do teste prático está em um arquivo zip (Teste prático.zip).
+
 Fazer o download da pasta e extrair o arquivo.
 Clicar no arquivo index.html e em seguida será direcionado para uma página na internet que mostrará o conteúdo do arquivo.
 Para testar a página, clique no botão "eu quero!"
